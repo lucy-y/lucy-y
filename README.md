@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <div align = "center">
-
+  
 <br/>
 <h3>Hi 👋</h3><br/>
 Hello, I'm Lucy<br/>
