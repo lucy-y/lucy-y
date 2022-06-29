@@ -1,10 +1,7 @@
 
-<div align = "center">
-  
-<br/>
-<h3>Hi 👋</h3><br/>
-Hello, I'm Lucy.<br/>
 
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi,%20I%27m%20Lucy&height=150&fontSize=60&desc=Web%20Developer&descAlignY=75&descAlign=70)
+<div align = "center">
 
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucy-y&count_bg=%23CA97FF&title_bg=%23808080&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
