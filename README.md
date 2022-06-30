@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
 <br/>
 <h3>🌱 STUDYING </h3>
-<img src="https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/kibana-005571?style=flat-square&logo=kibana&logoColor=white">
