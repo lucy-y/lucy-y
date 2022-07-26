@@ -2,17 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi,%20I%27m%20Lucy&height=150&fontSize=60&desc=Web%20Developer&descAlignY=75&descAlign=70)
 <div align = "center">
-
-<br/><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucy-y&count_bg=%23CA97FF&title_bg=%23808080&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-y&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
   
 ﹏﹏﹏﹏﹏﹏﹏
-
-<br/><br/>
  
 <h3>💻 Tech Stack 💻</h3>
  
-<br/>
 <h3>🌱 BACKEND </h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
